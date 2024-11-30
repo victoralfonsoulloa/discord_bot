@@ -24,8 +24,8 @@ This is a simple Discord bot built with Python, designed to provide basic intera
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/victoralfonsoulloa/discord_bot.git
+cd discord_bot
 ```
 
 ### 2. Install Dependencies
